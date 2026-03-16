@@ -13,6 +13,14 @@ valuation across FY2021–FY2035.
 
 ---
 
+## 📈 Visual Highlights
+
+![Revenue vs Profit](charts/chart1_revenue_profit.png)
+![Margins](charts/chart2_margins.png)
+![Football Field](charts/chart3_football_field.png)
+![Revenue Forecast](charts/chart4_revenue_forecast.png)
+
+---
 ## 🏢 Company Snapshot
 | Particulars | Details |
 |---|---|
